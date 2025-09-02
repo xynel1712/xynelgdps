@@ -104,111 +104,51 @@
         }
         if (levelID == 11) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 12) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 13) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 14) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 15) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 16) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 17) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 18) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 19) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 20) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 21) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         if (levelID == 22) {
         auto gaming = GameLevelManager::sharedState()->GameLevelManager::getMainLevel(10, dontGetLevelString);
-        gaming->m_levelName = "Coming in 3.1.1";
-        gaming->m_songID = 0;
-        gaming->m_audioTrack = 0;
-        gaming->m_difficulty = GJDifficulty::Insane;
-        gaming->m_stars = 0;
-        return gaming;
+
         }
         return GameLevelManager::sharedState()->GameLevelManager::getMainLevel(levelID, dontGetLevelString);
         };
